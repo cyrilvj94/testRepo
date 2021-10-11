@@ -1,1 +1,2 @@
 text in file b.txt
+this is a test edit
