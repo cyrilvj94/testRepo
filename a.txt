@@ -1,3 +1,5 @@
 text in file a.txt
 Some additional file in a.txt
 additional files added to a.txt 
+Additional changes in file a.txt
+testing pushing to git repo
